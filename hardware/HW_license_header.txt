@@ -1,4 +1,4 @@
-*****************  HP Palmtop "SideCar" Project LICENSE *****************
+*************  HP Palmtop "SideCar" Project Hardware LICENSE ************
 
 All of the SideCar hardware project files in this repository 
 are distributed under the terms of the TAPR Open Hardware License.
