@@ -2,6 +2,7 @@
 
 All of the SideCar hardware project files in this repository 
 are distributed under the terms of the TAPR Open Hardware License.
+This includes everything in the lxsidecar/software repository.
 Please refer to the HARDWARE_LICENSE.TXT file in the root of this 
 repository for a complete description of the TAPR Open Hardware License.
 
