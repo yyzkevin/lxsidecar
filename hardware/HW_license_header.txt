@@ -1,0 +1,30 @@
+*****************  HP Palmtop "SideCar" Project LICENSE *****************
+
+All of the SideCar hardware project files in this repository 
+are distributed under the terms of the TAPR Open Hardware License.
+Please refer to the LICENSE.TXT file in the root of this repository for a 
+complete description of the TAPR Open Hardware License.
+
+Here is a short list of the terms and conditions of the 
+TAPR HW license which applies to every file in this hardware repository,
+unless stated otherwise:
+
+*  You may modify the documentation and make products based upon it.
+*  You may use products for any legal purpose without limitation.
+*  You may distribute unmodified documentation, but you must include the
+complete package as you received it.
+*  You may distribute products you make to third parties, if you either
+include the documentation on which the product is based, or make it
+available without charge for at least three years to anyone who requests
+it.
+*  You may distribute modified documentation or products based on it, if
+you:
+    *  License your modifications under the OHL.
+    *  Include those modifications, following the requirements stated
+       below.
+    *  Attempt to send the modified documentation by email to any of the
+       developers who have provided their email address.  This is a good
+       faith obligation - if the email fails, you need do nothing more
+       and may go on with your distribution.
+
+*************************************************************************
