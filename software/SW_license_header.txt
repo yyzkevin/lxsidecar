@@ -1,5 +1,5 @@
   
-*************  HP Palmtop "SideCar" Project Software LICENSE *************
+************  HP Palmtop "LXSideCar" Project Software LICENSE ************
 
 All of the SideCar software project files in this repository 
 are distributed under the terms of the GNU GPL Version 2.
